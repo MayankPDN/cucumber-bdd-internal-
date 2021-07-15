@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="99.945975">
+    <testcase classname="Roician contact us Feature" name="Roician contact us Scenario" time="31.806341">
+        <system-out><![CDATA[Given user is already on Roicion page.......................................passed
+When title of login page is Roician.........................................passed
+Then user click on Contact Us...............................................passed
+Then user enter "Mayank" and "Mayank@gmail.com" and "DataDriven" and "Cucumber BDD".passed
+Then user click on SEND.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Roician contact us Feature" name="Roician contact us Scenario 2" time="25.528513">
+        <system-out><![CDATA[Given user is already on Roicion page.......................................passed
+When title of login page is Roician.........................................passed
+Then user click on Contact Us...............................................passed
+Then user enter "preyal" and "Preyal@gmail.com" and "DataDriven" and "Cucumber BDD1".passed
+Then user click on SEND.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Roician contact us Feature" name="Roician contact us Scenario 3" time="24.849899">
+        <system-out><![CDATA[Given user is already on Roicion page.......................................passed
+When title of login page is Roician.........................................passed
+Then user click on Contact Us...............................................passed
+Then user enter "Dev" and "dev@gmail.com" and "DataDriven" and "Cucumber BDD2".passed
+Then user click on SEND.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Roician contact us Feature" name="About Us Scenario" time="17.761222">
+        <system-out><![CDATA[Given user is already on Roicion page.......................................passed
+When title of login page is Roician.........................................passed
+Then user click on About Us.................................................passed
+And check image.............................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
